@@ -7,3 +7,5 @@ their lives. The goal was to sway users to change their buying habits and theref
 emissions harming the planet.
 
 We performed user research and tested our prototype with our classmates and peers, and made a final presentation infront of our professor.
+
+![](home.png)
